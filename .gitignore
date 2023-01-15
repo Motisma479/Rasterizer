@@ -1,0 +1,11 @@
+*.user
+.vs
+x64
+app/x64
+renderer/x64
+scene/x64
+*.o
+*.d
+
+imgui.ini
+Rasterizer.exe
